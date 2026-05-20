@@ -13,3 +13,11 @@ Challenges I faced: I would say the main challenge I faced whilst creating this 
 What I learned and future improvements: I have learned that getting knowledge on python specifically from different/multiple sources is a major plus and is something I would like to do for different coding languages.
 
 Name: Nithaam Julius.
+
+Screenshots:
+
+PyPlay Main Menu -
+![PyPlay_Main_Menu](image.png)
+
+PyPlay Option 1 Showcase
+![PyPlay_Option_1_Showcase](image-1.png)
